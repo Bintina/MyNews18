@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My News1.8</string>
+    <string name="news_section">NewsTite</string>
+    <string name="date">Date</string>
+    <string name="caption">News Caption</string>
+</resources>
